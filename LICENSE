@@ -1,0 +1,11 @@
+
+---
+
+### .gitignore
+
+```gitignore
+# Ignore simulation files and build artifacts
+*.log
+*.tmp
+*.o
+*.vcd
