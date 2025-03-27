@@ -1,0 +1,16 @@
+# Simulation artifacts
+*.log
+*.tmp
+*.o
+*.vcd
+*.wlf
+*.sdf
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
