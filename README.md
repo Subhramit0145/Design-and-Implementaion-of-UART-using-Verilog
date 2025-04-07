@@ -54,16 +54,6 @@ The design has been verified through simulation with the following observations:
 
 For complete details, including additional diagrams and comprehensive explanations, please refer to the original PDF document located in the `docs/` folder.
 
-## Getting Started
 
-### Prerequisites
-- **Tools:**  
-  - Verilog simulation tool (e.g., ModelSim, Vivado, or Quartus)
-  - Git for version control
-- **Knowledge:** Familiarity with Verilog HDL and digital design fundamentals.
-
-### Installation & Simulation
-1. **Clone the Repository:**
-   ```sh
    git clone https://github.com/your_username/uart_verilog.git
    cd uart_verilog
