@@ -51,9 +51,3 @@ The design has been verified through simulation with the following observations:
 
   - The received waveform confirms that the receiver accurately captures 8 data bits (e.g., `55H`), effectively synchronizing and sampling the incoming serial data.
   - The experimental waveforms validate that the receiver's synchronizer and sampling strategy work as intended.
-
-For complete details, including additional diagrams and comprehensive explanations, please refer to the original PDF document located in the `docs/` folder.
-
-
-   git clone https://github.com/your_username/uart_verilog.git
-   cd uart_verilog
